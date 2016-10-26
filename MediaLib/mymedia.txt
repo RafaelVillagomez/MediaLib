@@ -1,0 +1,8 @@
+Johnny B. Goode|2
+M|2
+Loco|6
+Coko|6
+Staying Alive|6
+Money|5
+Looping|2
+NULL|2
